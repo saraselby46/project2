@@ -36,7 +36,7 @@
 		<registered_name> Wild Cat Girl </registered_name>
 		<barn_name> Bailey	</barn_name>
 		<sex> Mare 		</sex>
-		<dam>			</dam>
+		<dam>	Kodoriffic		</dam>
 		<sire>	Wild Haired Cat		</sire>
 		<earnings> $5,980.28		</earnings>
 		<color>Bay		</color>
@@ -149,14 +149,14 @@
 
 
 <horse>
-		<registered_name> N/A	</registered_name>
+		<registered_name> Ima Two Eyed Playboy	</registered_name>
 		<barn_name>	Playboy	</barn_name>
 		<sex> 	Gelding		</sex>
-		<dam>	N/A		</dam>
-		<sire> 	N/A		</sire>
+		<dam>	LL Silver </dam>
+		<sire> 	Joe Jack Songita		</sire>
 		<earnings>		</earnings>
 		<color>	 Black		</color>
-		<birth_year> 	N/A		</birth_year>
+		<birth_year> 	2004		</birth_year>
 		<owner>	Kimberly Howard		</owner>
 	</horse>
 
